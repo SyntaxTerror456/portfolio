@@ -25,7 +25,7 @@ export default function HomePage(){
       {/* Text Section */}
       <div className="flex flex-col justify-center items-center text-center gap-2 mt-6 md:mt-0">
         <h1 className="text-sm md:text-base font-semibold text-gray-600">
-          Hello, I'm
+          Hello, I am
         </h1>
         <h1 className="text-2xl md:text-4xl font-semibold">
           Kingshuk Hajong

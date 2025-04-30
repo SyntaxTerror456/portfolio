@@ -44,7 +44,7 @@ export default function Contact() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 w-full max-w-6xl bg-gray-50 p-8 rounded-3xl shadow-xl">
         {/* Left Side */}
         <div className="flex flex-col gap-6">
-          <h2 className="text-2xl font-semibold">Let's talk</h2>
+          <h2 className="text-2xl font-semibold">Lets talk</h2>
           <p className="text-gray-600">
             I’m currently available to take on new projects. Feel free to send me a message about anything you want me to work on. I'll get back to you soon!
           </p>

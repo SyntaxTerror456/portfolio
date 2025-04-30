@@ -27,12 +27,14 @@ export default function Contact() {
       setSubject('');
       setMassage('');
 
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     }catch(error:unknown){
    
      alert("Unknow Error Occur");
     
     
-  };
+  }
+  }
 
   return (
     <div id="contact" className="flex flex-col items-center py-12 px-4 md:px-12">
@@ -108,4 +110,4 @@ export default function Contact() {
       <h1 className="md:text-2xl text-sm mt-18 text-center">Copyright © 2025 <br /> Developed By Kingshuk Hajong. <br /> All Rights Reserved.</h1>
     </div>
   );
-}
+  }

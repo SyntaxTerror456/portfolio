@@ -46,7 +46,7 @@ export default function Contact() {
         <div className="flex flex-col gap-6">
           <h2 className="text-2xl font-semibold">Lets talk</h2>
           <p className="text-gray-600">
-            I am currently available to take on new projects. Feel free to send me a message about anything you want me to work on. I'll get back to you soon!
+            I am currently available to take on new projects. Feel free to send me a message about anything you want me to work on. I will get back to you soon!
           </p>
 
           <div className="flex items-center gap-3 text-gray-700">

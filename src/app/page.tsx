@@ -32,7 +32,7 @@ import Experience from "./experience/page";
 import Project from "./project/page";
 import Contact from "./contact/page";
 import HomePage from "./homePage/page";
-import Navbar from "./navbar/page";
+
 
 
 export default function Home() {

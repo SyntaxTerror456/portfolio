@@ -8,7 +8,6 @@ import man2 from "../public/image/man2.jpg"
 import { FaAward } from "react-icons/fa6"
 import { IoSchool } from "react-icons/io5"
 
-import man4 from "../public/image/man4.jpg";
 
 export default function About() {
     return (

@@ -3,8 +3,6 @@
 
 import Image from "next/image";
 import man from "../public/image/man.jpg";
-import man3 from "../public/image/man3.jpg";
-import man4 from "../public/image/man4.jpg";
 import { FaGithub } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 

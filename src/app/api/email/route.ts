@@ -44,8 +44,8 @@ export async function POST(request: NextRequest) {
       },
       { status: 200 }
     );
-  } catch (error: any) {
-    console.log("Email error:", error.message);
+  } catch (error: unknown) {
+    console.log("Email error:", error);
     return NextResponse.json(
       {
         success: false,

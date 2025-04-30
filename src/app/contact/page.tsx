@@ -27,14 +27,9 @@ export default function Contact() {
       setSubject('');
       setMassage('');
 
-    }catch(error:any){
+    }catch(error:unknown){
    
-    if (error.response) {
-      alert(error.response.data.message)
-    } else {
-      alert("An unknown error occurred")
-    }
-    }
+     alert("Unknow Error Occur");
     
     
   };
